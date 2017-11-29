@@ -1,0 +1,19 @@
+body{background:url(../img/fondo.jpg) no-repeat center center fixed;
+background-size: cover;}
+
+body,html{height:100%;padding:0px;margin:0px}
+body{font-size:3vw}
+.a,.b,.c{display:inline-block;width:33.33%;height:100%;float:left;}
+.d{left: 0; right: 0;margin: 0 auto;float: center; height:10%;width:100%;position:fixed;bottom:0px;}
+#nave{text-align:center;position:fixed;top:5%;width:100%;height:20%;}
+img{height:100%;}
+.tamañodelasimagenes{height: 35%;position: relative}
+.tamañodelboton{height: 20%; position: absolute;bottom: 40%; left: 1px}
+.holadelmenu{height: 10%;position: absolute; right: 0}
+.tamañodelreiniciar{height: 10%;position: absolute; right: 0; top: 10%}
+.tamañodeunboton{height: 10%;position: absolute; right: 0; top: 20%}
+#color1{position: relative ;color: white; font-size: 70%}
+#top{height: 10%;position: absolute; right: 0; top: 30%}
+
+
+
